@@ -1,0 +1,8 @@
+a{
+    text-decoration: none;
+    color: purple;
+}
+
+.active{
+    color: rgb(250, 5, 25);
+}
